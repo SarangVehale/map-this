@@ -1,0 +1,4 @@
+python preprocess_locations.py --csv your_data.csv --api-key YOUR_HERE_API_KEY
+
+
+python create_map.py --csv your_data.csv --api-key YOUR_HERE_API_KEY
